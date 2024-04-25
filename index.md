@@ -19,3 +19,7 @@ library(scales) # Package to gain percent function
 ``` python
 print("I am not aware.")
 ```
+
+- [ ] Work on task list
+- [ ] Make sure this makes sense
+- [X] Does it?
